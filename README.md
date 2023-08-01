@@ -17,7 +17,7 @@ Beyond my technicaw puwrsuits, I'm a stwong team pwayew and sup-pawtive communic
 
 - Got my PhD in Applied Computew Science fwom Nicowaus Copewnicus Univewsity in To-wuń 🎓
 
-##💡 Intewests
+## 💡 Intewests
 
 - Machine leawning and awtificiaw intewwigence make me go "Beep boop" 🤖
 - I'm fascinated by wight twanspowt and way t-wacing methods, and it's like seeing the sunsets in codes! 🌅
