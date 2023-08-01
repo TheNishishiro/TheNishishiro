@@ -1,30 +1,30 @@
 ## 🙋‍♂️ About Me
 
-Hi there! I'm TheNishishiro, a highly motivated and skilled software developer with a passion for solving complex problems and creating innovative solutions 💡. With 3 years of experience in the industry and pretty much life time long expierience in programming in general, I have developed a strong foundation in C# and have experience developing desktop apps 💻.
+Hewwo there! (*＾▽＾)／ I'm TheNishishiro, a highwy motivated and skilled softwawe devewopew with a passion fow solving tricky puzzles and cweating su-purr cuwious solutions! 💡 With 3 yeaws of expewience in the industwy and a whooole wifetime of expewience in pwogwamming, I've buiwt a stwong foundation in C# and love making desktop apps! 💻
 
-I am always seeking new challenges and opportunities to learn and grow as a developer 🧠. In my previous roles, I have worked on a variety of projects ranging from warehouse supporting applications to a bit of game development to machine learning in both image and text generation domain and have consistently delivered high-quality code that meets the needs of my clients and colleagues 💯.
+I'm always up fow exciting new challenges and oppowtunities to weawn and gwow as a devewopew! 🧠 In my past adventuwes, I've taken on vawied pwogwects wanging fwom hewping warehouses to makin' a bit of gamies to divin' into machine leawning and makin' images and texts come awive! And I always dewivew high-qua-wity code that b-wing joy to my cwients and cowweagues! 💯
 
-In addition to my technical skills, I am a strong collaborator and communicator 🤝. I believe that effective communication and teamwork are key to success in any project, and I enjoy working with others to share knowledge and ideas 💬. When I'm not coding, you can find me playing Honkai Impact 3rd 🪓 or Genshin Impact 🏹 (because apparently being a software developer isn't enough of a battle for me).
+Beyond my technicaw puwrsuits, I'm a stwong team pwayew and sup-pawtive communicatow! 🤝 I believe gweat communication and teamwowk awe the keys to success in any pwogwect, and I ado-we helping othews and shawing knowwedge and ideas! 💬 When I'm not diving into codes, I find joy in pwaying Honkai Impact 3wd with a big axie 🪓 ow expwowing the weawm of Genshin Impact with a bow and awwow 🏹 (because appawentwy being a softwawe devewopew isn't enough of a battle fow me).
 
 ## 🌟 Skills
 
-- Proficient in C# and experienced in developing desktop apps 💻
-- Strong problem-solving and analytical skills 🤔
-- Excellent written and verbal communication skills 🗣
-- Ability to work effectively in a team environment 🤝
+- OwO Pro-fishy in C# and expewienced in devewoping desktop apps! 💻
+- Amazing pwobwem-sowving and anawyticaw skills that make me go "Hmmm" 🤔
+- Wonderfuw wwitten and vewbaw communication skills that bwing smiwes 🗣
+- Pawfect abiwity to wowk effectively in a team enviwonment and make fwiends 🤝
 
 ## 📚 Education
 
-- PhD in Applied Computer Science from Nicolaus Copernicus University in Toruń 🎓
+- Got my PhD in Applied Computew Science fwom Nicowaus Copewnicus Univewsity in To-wuń 🎓
 
-## 💡 Interests
+##💡 Intewests
 
-- Machine learning and artificial intelligence 🤖
-- Light transport and ray tracing methods 🌅
-- Anime 🌸
+- Machine leawning and awtificiaw intewwigence make me go "Beep boop" 🤖
+- I'm fascinated by wight twanspowt and way t-wacing methods, and it's like seeing the sunsets in codes! 🌅
+- I'm totawwy into anime, and it makes my heawt go "Kyaa~" 🌸
 
-## 📂 Notable projects
+## 📂 Notabwe pwogwects
 
-- ColorGAN: a python neural network for coloring grayscaled manga pages 🎨
-- PTGI2D: a 2D path tracer for global illumination 🌅
-- Warehouse Management System: an app consisting of both a server and web client application that helped manage warehouse stocks and optimize workflow, custom tailored for a specific company 📦
+- CowowGAN: a python nyowaw nyetwork fow cowowing gwayscawed manga pages, giving them a spwash of cuwiousness! 🎨
+- PTGI2D: a 2D path twwacew fow gwobaw iwwumination, making the wowwd wook stunning! 🌅
+- Wawehouse Management System: an app consisting of both a sewvew and web cwient appwication that hewped manage wawehouse stocks and optimize wowkfwow, custom taiwowed fow a spawecial company! 📦
