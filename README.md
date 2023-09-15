@@ -1,3 +1,5 @@
+This page is a joke, please don't take it seriously, I just love how dumb it sounds when you read it :D
+
 ## 🙋‍♂️ About Me
 
 Hewwo there! (*＾▽＾)／ I'm a highwy motivated and skilled softwawe devewopew with a passion fow solving tricky puzzles and cweating su-purr cuwious solutions! 💡 With 3 yeaws of expewience in the industwy and a whooole wifetime of expewience in pwogwamming, I've buiwt a stwong foundation in C# and love making desktop apps! 💻
