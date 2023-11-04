@@ -1,4 +1,4 @@
-This page is a joke, please don't take it seriously, I just love how dumb it sounds when you read it :D
+This page is a joke, don't take it seriously, I just love how dumb it sounds
 
 ## 🙋‍♂️ About Me
 
