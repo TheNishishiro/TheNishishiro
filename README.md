@@ -1,4 +1,4 @@
-![alt text](https://preview.redd.it/writingcode-v0-v5aba188tmvd1.jpeg?width=1080&crop=smart&auto=webp&s=d654fef977556ef2d6d944de266bf4ea170b49d1)
+![alt text](https://raw.githubusercontent.com/TheNishishiro/lists/refs/heads/master/0kkzu6qoexzd1.png)
 
 ## 🙋‍♂️ About Me
 
