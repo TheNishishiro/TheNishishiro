@@ -1,5 +1,4 @@
 ![alt text](https://raw.githubusercontent.com/TheNishishiro/lists/refs/heads/master/0kkzu6qoexzd1.png)
-
 ## 🙋‍♂️ About Me
 
 Hewwo there! (*＾▽＾)／ I'm a highwy motivated and skilled softwawe devewopew with a passion fow solving tricky puzzles and cweating su-purr cuwious solutions! 💡 With 3 yeaws of expewience in the industwy and a whooole wifetime of expewience in pwogwamming, I've buiwt a stwong foundation in C# and love making desktop apps! 💻
@@ -9,6 +8,8 @@ I'm always up fow exciting new challenges and oppowtunities to weawn and gwow as
 Beyond my technicaw puwrsuits, I'm a stwong team pwayew and sup-pawtive communicatow! 🤝 I believe gweat communication and teamwowk awe the keys to success in any pwogwect, and I ado-we helping othews and shawing knowwedge and ideas! 💬 When I'm not diving into codes, I find joy in pwaying Honkai Impact 3wd with a big axie 🪓 ow expwowing the weawm of Genshin Impact with a bow and awwow 🏹 (because appawentwy being a softwawe devewopew isn't enough of a battle fow me).
 
 ## 🌟 Skills
+
+![alt text](https://github.com/TheNishishiro/TheNishishiro/blob/main/c2s4csxywdle1.jpeg?raw=true)
 
 - OwO Pro-fishy in C# and expewienced in devewoping desktop apps! 💻
 - Amazing pwobwem-sowving and anawyticaw skills that make me go "Hmmm" 🤔
