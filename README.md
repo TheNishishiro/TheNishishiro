@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/TheNishishiro/lists/refs/heads/master/0kkzu6qoexzd1.png)
 ## 🙋‍♂️ About Me
 
-Hewwo there! (*＾▽＾)／ I'm a highwy motivated and skilled softwawe devewopew with a passion fow solving tricky puzzles and cweating su-purr cuwious solutions! 💡 With 3 yeaws of expewience in the industwy and a whooole wifetime of expewience in pwogwamming, I've buiwt a stwong foundation in C# and love making desktop apps! 💻
+Hewwo there! (*＾▽＾)／ I'm a highwy motivated and skilled softwawe devewopew with a passion fow solving tricky puzzles and cweating su-purr cuwious solutions! 💡 With almost 6 yeaws of expewience in the industwy and a whooole wifetime of expewience in pwogwamming, I've buiwt a stwong foundation in C# and love making desktop apps! 💻
 
 I'm always up fow exciting new challenges and oppowtunities to weawn and gwow as a devewopew! 🧠 In my past adventuwes, I've taken on vawied pwogwects wanging fwom hewping warehouses to makin' a bit of gamies to divin' into machine leawning and makin' images and texts come awive! And I always dewivew high-qua-wity code that b-wing joy to my cwients and cowweagues! 💯
 
